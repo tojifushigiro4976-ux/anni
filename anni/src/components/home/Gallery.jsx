@@ -85,16 +85,6 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="1/8.jpg"
-                  alt="img8"
-                />
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-4 gallery-col">
-              <div className="gallery-img-container">
-                <img
-                  className="gallery-img"
                   src="1/9.jpg"
                   alt="img9"
                 />
