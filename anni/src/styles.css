@@ -6,7 +6,7 @@
 
 body {
   font-family: Muli, sans-serif;
-  background-color: #F4C2C2;
+  background-color: #f4c2c2;
 }
 
 h1,
@@ -42,7 +42,7 @@ header {
   left: 0;
   width: 100%;
   z-index: 60;
-  background-color: #F4C2C2;
+  background-color: #ffc0cb;
 }
 
 .nav-container {
@@ -51,26 +51,26 @@ header {
 }
 
 .navbar {
-  background-color: #FFC0CB;
+  background-color: #ffc0cb;
 }
 
 .navbar-brand {
   font-family: Great Vibes, cursive;
   font-size: 2rem;
   font-weight: bold;
-  color: #FFC0CB;
+  color: #fff;
   padding: 0 15px;
 }
 
 .nav-item {
-  color: #FFC0CB;
+  color: #fff;
   padding: 30px 15px;
 }
 
 .nav-link {
   font-size: 1rem;
   padding: 0;
-  color: #F4C2C2;
+  color: #fff;
 }
 
 .navbar-toggler {
@@ -101,7 +101,7 @@ header {
 .slide-content {
   text-align: center;
   /* background color of circle */
-  background-color: rgba(0, 0, 180, 0.8);
+  background-color: #f4c2c2;
   width: 380px;
   height: 380px;
   display: flex;
@@ -112,7 +112,7 @@ header {
   position: relative;
   z-index: 1;
   /* tect color */
-  color: #FFC0CB;
+  color: #fff;
   position: relative;
   top: 220px;
 }
@@ -128,7 +128,7 @@ header {
   width: 103%;
   height: 103%;
   /* background color for circle */
-  background: rgba(0, 0, 180, 0.5);
+  background: #ffc0cb;
   border-radius: 50%;
   position: absolute;
   left: -1.5%;
@@ -142,18 +142,33 @@ header {
   30% {
     transform: scale(1);
     /* pulsating circle color*/
-    box-shadow: 0 0 0 8px rgba(7, 129, 177, 0.5);
+    box-shadow: 0 0 0 8px #faa7b5;
   }
+}
+
+.couple-title h1 {
+  font-size: 3.5rem;
+  margin-bottom: 50px;
+  color: #fff;
+}
+
+.couple-content h3 {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.couple-content p {
+  color: #ffffff;
 }
 
 /* Countdown Section */
 
 .countdown-section {
-  color: #F4C2C2;
+  color: #fff;
   text-align: center;
   padding: 5% 0;
   /* countdown background color*/
-  background-color: #F4C2C2;
+  background-color: #f4c2c2;
 }
 
 .countdown-container {
@@ -221,13 +236,14 @@ ul {
 }
 
 .story-wrap {
-  color: #F4C2C2;
-  background-color: #FFC0CB;
+  color: #fff;
+  background-color: #f4c2c2;
 }
 
 .story-title h1 {
   font-size: 3.5rem;
   margin-bottom: 50px;
+  color: #fff;
 }
 
 #story .row {
@@ -261,12 +277,12 @@ ul {
 }
 
 .story-text a {
-  color: rgb(182, 96, 96);
+  color: #f4c2c2;
 }
 
 .story-text a:hover {
   text-decoration: none;
-  color: #FFC0CB;
+  color: #ffc0cb;
 }
 
 .story-text h3 {
@@ -294,6 +310,7 @@ ul {
 .gallery-title h1 {
   font-size: 3.5rem;
   margin-bottom: 50px;
+  color: #fff;
 }
 
 .gallery-col {
@@ -338,7 +355,7 @@ ul {
 }
 /* circle at the end */
 .thank-content {
-  background-color: rgb(0, 0, 180);
+  background-color: #ffc0cb;
   width: 380px;
   height: 380px;
   display: flex;
@@ -348,7 +365,7 @@ ul {
   border-radius: 50%;
   position: relative;
   z-index: 1;
-  color: #F4C2C2;
+  color: #fff;
 }
 
 .end-content p {
@@ -363,7 +380,7 @@ ul {
 }
 /* copy right */
 .copyright {
-  color: #FFC0CB;
+  color: #fff;
   margin-bottom: 0;
   text-align: center;
   width: 100%;
