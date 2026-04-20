@@ -42,7 +42,7 @@ header {
   left: 0;
   width: 100%;
   z-index: 60;
-  background-color: #000080;
+  background-color: #F4C2C2;
 }
 
 .nav-container {
@@ -51,26 +51,26 @@ header {
 }
 
 .navbar {
-  background-color: #000080;
+  background-color: #FFC0CB;
 }
 
 .navbar-brand {
   font-family: Great Vibes, cursive;
   font-size: 2rem;
   font-weight: bold;
-  color: ##89cff0;
+  color: #FFC0CB;
   padding: 0 15px;
 }
 
 .nav-item {
-  color: #89cff0;
+  color: #FFC0CB;
   padding: 30px 15px;
 }
 
 .nav-link {
   font-size: 1rem;
   padding: 0;
-  color: #000080;
+  color: #F4C2C2;
 }
 
 .navbar-toggler {
@@ -112,7 +112,7 @@ header {
   position: relative;
   z-index: 1;
   /* tect color */
-  color: #89cff0;
+  color: #FFC0CB;
   position: relative;
   top: 220px;
 }
@@ -149,11 +149,11 @@ header {
 /* Countdown Section */
 
 .countdown-section {
-  color: #89cff0;
+  color: #F4C2C2;
   text-align: center;
   padding: 5% 0;
   /* countdown background color*/
-  background-color: #000080;
+  background-color: #F4C2C2;
 }
 
 .countdown-container {
@@ -221,8 +221,8 @@ ul {
 }
 
 .story-wrap {
-  color: #89cff0;
-  background-color: rgb(0, 0, 180);
+  color: #F4C2C2;
+  background-color: #FFC0CB;
 }
 
 .story-title h1 {
@@ -266,7 +266,7 @@ ul {
 
 .story-text a:hover {
   text-decoration: none;
-  color: #000080;
+  color: #FFC0CB;
 }
 
 .story-text h3 {
@@ -348,7 +348,7 @@ ul {
   border-radius: 50%;
   position: relative;
   z-index: 1;
-  color: #89cff0;
+  color: #F4C2C2;
 }
 
 .end-content p {
@@ -363,7 +363,7 @@ ul {
 }
 /* copy right */
 .copyright {
-  color: #89cff0;
+  color: #FFC0CB;
   margin-bottom: 0;
   text-align: center;
   width: 100%;
